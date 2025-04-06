@@ -1,0 +1,9 @@
+nbproject/private/
+build/
+dist/
+target/
+*.log
+*.class
+*.iml
+*.swp
+.DS_Store
